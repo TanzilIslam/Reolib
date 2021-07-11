@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/high-rated", {data:[{}],fetch:[{currentPage:2,seoObject:{}}],mutations:[]});

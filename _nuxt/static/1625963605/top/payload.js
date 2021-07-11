@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/top", {data:[{}],fetch:[{loaded:true,seoObject:{}}],mutations:[]});

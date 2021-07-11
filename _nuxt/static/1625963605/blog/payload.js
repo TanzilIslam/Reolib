@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/blog", {data:[{}],fetch:[{bottomCards:{},nextDataLink:"",cover:[],home:[],seoObject:{}}],mutations:[]});

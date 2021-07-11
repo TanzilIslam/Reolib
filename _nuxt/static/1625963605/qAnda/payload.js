@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/qAnda", {data:[{}],fetch:[{data:[],next:"",subTagList:[],selectedData:false,subTagData:[],fastCheck:[],seoObject:{}}],mutations:[]});
